@@ -1,2 +1,2 @@
 # tic-tac-toe-game
-# tic-tac-toe-game
+TIC TAC TOE GAME WHICH IS MADE USING JAVASCRIPT,HTML AND CSS
